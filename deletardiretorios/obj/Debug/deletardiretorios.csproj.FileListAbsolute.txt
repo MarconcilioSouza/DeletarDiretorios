@@ -1,0 +1,7 @@
+C:\WORK\1-Arquivos Pessoais\stackoverflow\deletardiretorios\deletardiretorios\bin\Debug\deletardiretorios.exe.config
+C:\WORK\1-Arquivos Pessoais\stackoverflow\deletardiretorios\deletardiretorios\bin\Debug\deletardiretorios.exe
+C:\WORK\1-Arquivos Pessoais\stackoverflow\deletardiretorios\deletardiretorios\bin\Debug\deletardiretorios.pdb
+C:\WORK\1-Arquivos Pessoais\stackoverflow\deletardiretorios\deletardiretorios\obj\Debug\deletardiretorios.csprojResolveAssemblyReference.cache
+C:\WORK\1-Arquivos Pessoais\stackoverflow\deletardiretorios\deletardiretorios\obj\Debug\deletardiretorios.csproj.CoreCompileInputs.cache
+C:\WORK\1-Arquivos Pessoais\stackoverflow\deletardiretorios\deletardiretorios\obj\Debug\deletardiretorios.exe
+C:\WORK\1-Arquivos Pessoais\stackoverflow\deletardiretorios\deletardiretorios\obj\Debug\deletardiretorios.pdb
